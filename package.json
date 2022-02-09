@@ -4,5 +4,9 @@
     "json-server": "^0.17.0",
     "material": "^0.4.3",
     "material-icons": "^1.10.6"
+  },
+
+  "scripts": {
+    "json:server": "json-server --watch db.json"
   }
 }
