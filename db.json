@@ -1,40 +1,16 @@
 {
   "tickets": [
     {
-      "id": 1,
-      "number" : "12345",
-      "title": "test1",
-      "exists": false
+      "number": "64210",
+      "title": "TEst",
+      "exists": true,
+      "id": 7
     },
     {
-      "id": 2,
-      "number" : "12345",
-      "title": "test2",
-      "exists": false
-    },
-    {
-      "id": 3,
-      "number" : "12345",
-      "title": "test3",
-      "exists": false
-    },
-    {
-      "id": 4,
-      "number" : "12345",
-      "title": "test4",
-      "exists": false
-    },
-    {
-      "id": 5,
-      "number" : "12345",
-      "title": "test5",
-      "exists": false
-    },
-    {
-      "id": 6,
-      "number" : "65705",
-      "title": "test6",
-      "exists": false
+      "number": "64210",
+      "title": "TEst",
+      "exists": true,
+      "id": 8
     }
   ]
 }
